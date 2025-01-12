@@ -23,20 +23,21 @@ The Neetcode 150 problems are curated to help you master Data Structures and Alg
 
 Navigate to the problem's folder to view the C++ solution files.
 
-📝 Content Overview
+### 📝 Content Overview
 This repository includes:
 
 Detailed Explanations: Insights into the logic of each approach.
 Code Files: C++ implementations for all three approaches.
 Learning Notes: Additional tips and observations about the problem.   
 
-🚀 Contribute
+### 🚀 Contribute
 You are welcome to contribute by:
 
 Adding solutions for unsolved problems.
 Optimizing existing solutions.
 Creating detailed explanations for complex problems.
 To contribute, fork the repository and create a pull request with your updates!
+	
 
-🤝 Acknowledgments
+### 🤝 Acknowledgments
 Special thanks to Neetcode for creating the Neetcode 150 problem set, a fantastic resource for mastering DSA concepts.
