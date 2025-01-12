@@ -40,4 +40,4 @@ To contribute, fork the repository and create a pull request with your updates!
 	
 
 ### 🤝 Acknowledgments
-Special thanks to Neetcode for creating the Neetcode 150 problem set, a fantastic resource for mastering DSA concepts.
+Special thanks to Neetcode for creating the Neetcode-150 problem set, a fantastic resource for mastering DSA concepts.
